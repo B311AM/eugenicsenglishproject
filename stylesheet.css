@@ -1,3 +1,11 @@
 .jumbotron{
 background-image:url(img/monet.jpg)
 }
+.text{
+    color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+body{
+    background-color:#7f825f;
+}
